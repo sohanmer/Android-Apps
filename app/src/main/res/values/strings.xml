@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Temperature by Cricket Chirps</string>
+    <string name="cricket_chirps_count">Enter Cricket Chirps Countvin 25 Seconds</string>
+    <string name="calculate_temperature">Calculate Temperature</string>
+    <string name="calculate_temperatue">Calculate Temperatue</string>
+    <string name="result">The temperature according to chirps count is:</string>
+    <string name="info">Do you know you can determine the temperature outside by counting the chirps cricket makes? Just count the number of chirps one made in 25 seconds and place that number in the box below:</string>
+    <string name="image_description">Thermometer image</string>
+    <string name="resultTemperature">TextView</string>
+    <string name="temperatureUnit">degree Celcius</string>
+</resources>
